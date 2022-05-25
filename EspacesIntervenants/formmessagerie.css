@@ -1,0 +1,39 @@
+.main {
+    width: 100%;
+    padding: auto;
+    margin-bottom: 0;
+        }
+
+.left {
+    width: 100%;
+        }
+
+.argue {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    padding: 1%;
+    background-color: bisque;
+    border: black solid 1px;
+    border-radius: 1em;
+    overflow: scroll;
+        }
+
+h3 {
+    text-align: center;
+    margin-bottom: 5%;
+        }
+
+form {
+    width: 80%;
+    margin: auto;
+    padding: 1%;
+    margin-top: 10%;
+    border: black solid 1px;
+    border-radius: 1em;
+        }
+
+.react {
+    width: 90%;    
+        } 
+        
